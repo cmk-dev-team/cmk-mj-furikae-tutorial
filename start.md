@@ -1,5 +1,6 @@
 ### @flyoutOnly true
 ### @hideIteration true
+### @hideDone true
 
 # ふりかえ ワールド
 
@@ -8,6 +9,10 @@
 メイクコード が ひらけた！
 
 ```template
-player.onChat("go", function () {
+hiraganaPlayer.onChatTemplate("go", function () {
 })
+```
+
+```package
+hiragana=github:cmk-dev-team/cmk-hiragana-blocks#v1.7.0
 ```
