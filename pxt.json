@@ -11,7 +11,8 @@
         "main.ts",
         "start.md",
         "l02.md",
-        "exp/e1.md"
+        "exp/e1.md",
+        "exp/e2.md"
     ],
     "public": true,
     "targetVersions": {
