@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "start.md",
-        "l02.md"
+        "l02.md",
+        "exp/e1.md"
     ],
     "public": true,
     "targetVersions": {
