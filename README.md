@@ -5,7 +5,9 @@
 | ファイル | レッスン | 開く URL |
 |---|---|---|
 | `start.md` | ワールドの 初期（education.json の defaulturi）。C で ひらいた とき | `https://minecraft.makecode.com/#tutorial:github:cmk-dev-team/cmk-mj-furikae-tutorial/start` |
+| `l01.md` | 1 どうぶつえん（いきもの を スポーン・みぎ うえ まえ の いち） | `https://minecraft.makecode.com/#tutorial:github:cmk-dev-team/cmk-mj-furikae-tutorial/l01` |
 | `l02.md` | 2 どうぶつえん の おしごと（くりかえし） | `https://minecraft.makecode.com/#tutorial:github:cmk-dev-team/cmk-mj-furikae-tutorial/l02` |
+| `l03.md` | 3 モンスター バトル（こうか。エフェクトのブロックはふつうの MakeCode のもの＝漢字のまま） | `https://minecraft.makecode.com/#tutorial:github:cmk-dev-team/cmk-mj-furikae-tutorial/l03` |
 
 - ワールドからは `codebuilder navigate @s false <URL>` で送る（へや に 入ったとき 1回）
 - ジュニアは 1ステップ 1指示。使うブロックだけ が 出るようにする（`@flyoutOnly true`）

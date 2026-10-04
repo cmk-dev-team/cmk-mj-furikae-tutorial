@@ -1,6 +1,6 @@
 {
     "name": "cmk-mj-furikae-tutorial",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "MJ（マイプロジュニア）振替ワールドのレッスン別チュートリアル",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,9 @@
         "main.blocks",
         "main.ts",
         "start.md",
-        "l02.md"
+        "l02.md",
+        "l01.md",
+        "l03.md"
     ],
     "public": true,
     "targetVersions": {
