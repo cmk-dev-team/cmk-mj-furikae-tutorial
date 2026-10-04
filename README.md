@@ -4,6 +4,7 @@
 
 | ファイル | レッスン | 開く URL |
 |---|---|---|
+| `start.md` | ワールドの 初期（education.json の defaulturi）。C で ひらいた とき | `https://minecraft.makecode.com/#tutorial:github:cmk-dev-team/cmk-mj-furikae-tutorial/start` |
 | `l02.md` | 2 どうぶつえん の おしごと（くりかえし） | `https://minecraft.makecode.com/#tutorial:github:cmk-dev-team/cmk-mj-furikae-tutorial/l02` |
 
 - ワールドからは `codebuilder navigate @s false <URL>` で送る（へや に 入ったとき 1回）

@@ -9,6 +9,7 @@
     "files": [
         "main.blocks",
         "main.ts",
+        "start.md",
         "l02.md"
     ],
     "public": true,
