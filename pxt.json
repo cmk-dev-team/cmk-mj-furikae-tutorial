@@ -12,7 +12,11 @@
         "start.md",
         "l02.md",
         "l01.md",
-        "l03.md"
+        "l03.md",
+        "s01.md",
+        "s04.md",
+        "s07.md",
+        "s09.md"
     ],
     "public": true,
     "targetVersions": {
